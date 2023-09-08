@@ -97,14 +97,14 @@ Showing ROIs:
 pheno.saveROIsImage("ROI_image.jpg")
 pheno.showROIs()
 ```
-<img  src="./roi_image.png" width="300" height="200" />        
+<img  alt="roi_image.png" src="./roi_image.png" width="300" height="200" />        
 
 Plotting GCC w.r.t. Day of year:
 ```ruby
 pheno.saveGCCPlot("GCC_plot.jpg")
 pheno.plotGCC()
 ```
-<img  src="./gcc%20plot.png" width="500" height="200" />         
+<img  alt="gcc plot.png" src="./gcc%20plot.png" width="500" height="200" />         
 
 Phenological Parameters: 
 ```ruby
@@ -121,4 +121,4 @@ Saving all the record of parameters and chromatic coordinates:
 ``` ruby
 pheno.saveCCsTimeSeries(r"G:\packege testing")
 ```
-<img  src="./time%20series%20excel.png" width="650" height="200" /> 
+<img  alt="time series excel.png" src="./time%20series%20excel.png" width="650" height="200" /> 
