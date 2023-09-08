@@ -1,5 +1,4 @@
 # **How to use 'phenoAI' python Package**
-
   
 (Refer [PhenoAI package functioning.ipynb](PhenoAI%20package%20functioning.ipynb) notebook)
 
